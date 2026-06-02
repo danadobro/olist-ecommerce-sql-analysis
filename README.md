@@ -111,7 +111,7 @@ Customers paying in 10 installments spend **4.3x more** than single payment cust
 
 Poor review scores among top sellers are not caused by late delivery — all problematic sellers are delivering early on average. The root cause is likely product quality or seller communication:
 
-![Seller Risk Table](sellers_table.png)
+![Seller Risk Table](images/sellers_table.png)
 
 The top revenue seller among poor performers generates R$237K — significant platform revenue tied to consistently poor customer satisfaction. These sellers are some of Olist's biggest earners and biggest reputational risks.
 
